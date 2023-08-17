@@ -40,9 +40,9 @@
       
       .navbar a:hover {
         color: black;
-        padding: 8px 15px;
+        padding: 8px 10px;
         background: #fff;
-        border-radius: 25px;
+        border-radius: 20px;
       }
       
       .navbar a.active {
